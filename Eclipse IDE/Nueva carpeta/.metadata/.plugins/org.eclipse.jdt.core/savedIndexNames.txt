@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Pedro Silva Verde\Desktop\Eclipse IDE\Nueva carpeta\.metadata\.plugins\org.eclipse.jdt.core
+1812237576.index
+1871662907.index
+1865797976.index

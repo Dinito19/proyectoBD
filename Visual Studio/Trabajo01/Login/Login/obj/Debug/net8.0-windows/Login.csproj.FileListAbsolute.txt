@@ -1,0 +1,34 @@
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\bin\Debug\net8.0-windows\Login.exe
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\bin\Debug\net8.0-windows\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Nueva carpeta\Login\Login\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\bin\Debug\net8.0-windows\Login.exe
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\bin\Debug\net8.0-windows\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\Pedro Silva Verde\Desktop\Visual Studio\Trabajo01\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
